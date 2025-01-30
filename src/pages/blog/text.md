@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Major Release announcement - October 2024
-date: 2024-10-14T19:35:00.000Z
+date: 2021-10-14T19:35:00.000Z
 author: The Avni Team
 description:
 featuredpost: false
